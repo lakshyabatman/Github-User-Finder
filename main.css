@@ -1,0 +1,10 @@
+.footer {
+    background-color: #cfd8dc;
+    width: 100%;
+    min-height: 10vh;
+}
+
+body {
+    padding: 0;
+    overflow-x: hidden;
+}
