@@ -1,0 +1,23 @@
+{
+  "name": "github-user-finder",
+  "version": "1.0.0",
+  "description": "Web App fetches Github Users Respos and Info using Github Api and Vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshyabatman/Github-User-Finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshyabatman/Github-User-Finder/issues"
+  },
+  "homepage": "https://github.com/lakshyabatman/Github-User-Finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}

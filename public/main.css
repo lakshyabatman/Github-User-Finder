@@ -8,3 +8,12 @@ body {
     padding: 0;
     overflow-x: hidden;
 }
+.container{
+    margin-bottom: 30px;
+}
+
+#resp{
+    min-height: 200px;
+    max-height: 400px;
+    overflow-y: scroll;
+}
